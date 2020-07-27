@@ -1,0 +1,26 @@
+.item-wrapper {
+  margin-bottom: 25px;
+}
+
+.text-wrapper {
+  background: #f2f2f2;
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 25px;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+.text {
+  margin: 0;
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  color: #737373;
+}
+
+.remove-button {
+  font-size: 20px;
+  border: none;
+  color: #737373;
+}

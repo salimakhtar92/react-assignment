@@ -1,0 +1,16 @@
+
+@media only screen and (min-width: 600px) {
+  .content-block {
+    width: 100%;
+  }
+}
+.content-block {
+  padding: 20px 40px;
+  border: 1px solid lightgray;
+  width: 49%;
+  box-sizing: border-box;
+  height: 700px;
+  border-radius: 10px;
+  overflow: auto;
+  background-color: #ffffff;
+}
